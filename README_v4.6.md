@@ -1,0 +1,1 @@
+# MPLA — SISTEMA DE GESTÃO DE MILITANTES (v4.6)\n\nDeploy: subir ao GitHub e criar app no Streamlit Cloud (Python 3.10).\n

@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pandas==2.2.2
+openpyxl==3.1.2
+xlsxwriter
+fpdf==1.7.2
+Pillow==10.3.0
